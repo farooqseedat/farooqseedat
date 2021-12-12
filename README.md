@@ -7,6 +7,15 @@
 I'm a full stack developer with keen interest in backend technologies. I really enjoy learning new languages and frameworks. I also enjoy learning different System Architectures and Designs.
 <br />
 
+### Connect with me:
+
+[<img src='github.svg' style="margin-right:15px;" alt='github' height='40'>][github]
+[<img src='linkedin.svg' style="margin-right:15px" alt='linkedin' height='40'>][linkedin]
+[<img src='stackoverflow.svg' style="margin-right:15px" alt='stackoverflow' height='40'>][stackoverflow]
+[<img src='website.svg' style="margin-right:15px" alt='farooqseedat.me' height='40'>][website]
+[<img src='medium.svg' style="margin-right:15px" alt='medium' height='40'>][medium]
+[<img src='fb.svg' style="margin-right:15px" alt='facebook' height='40'>][facebook]
+
 ### Languages and Tools:
 
 <img align="left" alt="django" width="26px" style="margin-right:10px" height='26px' src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
@@ -27,18 +36,13 @@ I'm a full stack developer with keen interest in backend technologies. I really 
 
 ---
 
+### Trophies:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=farooqseedat&theme=onedark&rank=SS,S,SSS,A,AA,AAA,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farooqseedat&show_icons=true&theme=github_dark&count_private=true)
-
-[<img src='github.svg' style="margin-right:15px;" alt='github' height='40'>][github]
-[<img src='linkedin.svg' style="margin-right:15px" alt='linkedin' height='40'>][linkedin]
-[<img src='stackoverflow.svg' style="margin-right:15px" alt='stackoverflow' height='40'>][stackoverflow]
-[<img src='website.svg' style="margin-right:15px" alt='farooqseedat.me' height='40'>][website]
-[<img src='medium.svg' style="margin-right:15px" alt='medium' height='40'>][medium]
-[<img src='fb.svg' style="margin-right:15px" alt='facebook' height='40'>][facebook]
 
 [github]: https://github.com/farooqseedat/
 [stackoverflow]: https://stackoverflow.com/users/11838178/farooq-seedat

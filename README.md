@@ -5,7 +5,6 @@
 ---
 
 I'm a full stack developer with keen interest in backend technologies. I really enjoy learning new languages and frameworks. I also enjoy learning different System Architectures and Designs.
-
 <br />
 
 ### Languages and Tools:

@@ -29,12 +29,12 @@ I'm a full stack developer with keen interest in backend technologies. I really 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farooqseedat&show_icons=true&theme=github_dark&count_private=true)
 
-[<img src='github.svg' style="margin-right:10px;" alt='github' height='40'>][github]
-[<img src='linkedin.svg' style="margin-right:10px" alt='linkedin' height='40'>][linkedin]
-[<img src='stackoverflow.svg' style="margin-right:10px" alt='stackoverflow' height='40'>][stackoverflow]
-[<img src='website.svg' style="margin-right:10px" alt='farooqseedat.me' height='40'>][website]
-[<img src='medium.svg' style="margin-right:10px" alt='medium' height='40'>][medium]
-[<img src='fb.svg' style="margin-right:10px" alt='facebook' height='40'>][facebook]
+[<img src='github.svg' style="margin-right:15px;" alt='github' height='40'>][github]
+[<img src='linkedin.svg' style="margin-right:15px" alt='linkedin' height='40'>][linkedin]
+[<img src='stackoverflow.svg' style="margin-right:15px" alt='stackoverflow' height='40'>][stackoverflow]
+[<img src='website.svg' style="margin-right:15px" alt='farooqseedat.me' height='40'>][website]
+[<img src='medium.svg' style="margin-right:15px" alt='medium' height='40'>][medium]
+[<img src='fb.svg' style="margin-right:15px" alt='facebook' height='40'>][facebook]
 
 [github]: https://github.com/farooqseedat/
 [stackoverflow]: https://stackoverflow.com/users/11838178/farooq-seedat

@@ -10,9 +10,10 @@ I'm a full stack developer with keen interest in backend technologies. I really 
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" style="margin-right:10px" height='26px' src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
-<img align="left" alt="HTML5" width="26px" style="margin-right:10px"  src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
+<img align="left" alt="django" width="26px" style="margin-right:10px" height='26px' src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
+<img align="left" alt="python" width="26px" style="margin-right:10px"  src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
 <img align="left" alt="React" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="NextJs" width="26px" style="margin-right:10px" height='26px' src="nextjs.svg" />
 <img align="left" alt="GraphQL" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="SQL" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -24,6 +25,10 @@ I'm a full stack developer with keen interest in backend technologies. I really 
 
 <br />
 <br />
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=farooqseedat&theme=onedark&rank=SS,S,SSS,A,AA,AAA,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
